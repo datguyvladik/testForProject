@@ -1,0 +1,13 @@
+D:\Новая папка\TaskManager\TaskManager\bin\Debug\netcoreapp2.0\TaskManager.deps.json
+D:\Новая папка\TaskManager\TaskManager\bin\Debug\netcoreapp2.0\TaskManager.runtimeconfig.json
+D:\Новая папка\TaskManager\TaskManager\bin\Debug\netcoreapp2.0\TaskManager.runtimeconfig.dev.json
+D:\Новая папка\TaskManager\TaskManager\bin\Debug\netcoreapp2.0\TaskManager.dll
+D:\Новая папка\TaskManager\TaskManager\bin\Debug\netcoreapp2.0\TaskManager.pdb
+D:\Новая папка\TaskManager\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.csprojResolveAssemblyReference.cache
+D:\Новая папка\TaskManager\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.Properties.Resources.resources
+D:\Новая папка\TaskManager\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.csproj.GenerateResource.Cache
+D:\Новая папка\TaskManager\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.csproj.CoreCompileInputs.cache
+D:\Новая папка\TaskManager\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.AssemblyInfoInputs.cache
+D:\Новая папка\TaskManager\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.AssemblyInfo.cs
+D:\Новая папка\TaskManager\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.dll
+D:\Новая папка\TaskManager\TaskManager\obj\Debug\netcoreapp2.0\TaskManager.pdb
